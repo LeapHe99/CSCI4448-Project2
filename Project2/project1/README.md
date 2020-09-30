@@ -1,5 +1,9 @@
-# 项目名称
-# 团队成员
+# Project name: 
+Animal Management Association
+
+#Project team names:
+Oliver He
+
 # What did we do：
 - We realized the daily operation of a zoo through java face object programming，including zookeeper commuting, feeding and training different animals, animals eating, sleeping and other functions, and realized a system that simulates zoo operation.
 
